@@ -274,10 +274,11 @@ h6 {
 }
 
 .header-image {
-  background-image: url("/path/to/11-09-23-1752-giving-top-2400x940.png");
-  background-size: cover;
+  background-image: url("../images/11-09-23-1752-giving-top-2400x940.png");
+  background-size: contain;
   background-position: center;
-  height: 50vh;
+  background-repeat: no-repeat;
+  height: 38.5vw;
 }
 
 li .bbb-logo,
