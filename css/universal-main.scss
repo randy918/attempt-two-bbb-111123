@@ -347,6 +347,13 @@ h6 {
     color: getColor(theBrown);
 }
 
+.header-image {
+    background-image: url('/path/to/11-09-23-1752-giving-top-2400x940.png');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
 li .bbb-logo,
 .trigger,
 .checkbox,
@@ -1535,7 +1542,7 @@ video {
 
 .logo {
     position: absolute;
-    top: 4.5vw;
+    top: 4.3vw;
     transition: all 1s;
     transform-origin: 0% 0%;
     width: 30vw;
