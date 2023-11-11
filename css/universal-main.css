@@ -278,7 +278,7 @@ h6 {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  height: 38.5vw;
+  height: 38.75vw;
 }
 
 li .bbb-logo,
@@ -1498,7 +1498,7 @@ video {
 .social-wrap__facebook {
   position: absolute;
   right: 3vw;
-  top: 22vw;
+  top: 46vw;
   width: 6vw;
   transition: all 300ms ease-out;
   z-index: 700;
@@ -1509,7 +1509,7 @@ video {
 .social-wrap__instagram {
   position: absolute;
   right: 11vw;
-  top: 22vw;
+  top: 46vw;
   width: 6vw;
   transition: all 300ms ease-out;
   z-index: 700;
@@ -1542,7 +1542,7 @@ video {
 .social-wrap__meet {
   position: absolute;
   right: 3vw;
-  top: 30vw;
+  top: 54vw;
   width: 13vw;
   transition: all 300ms ease-out;
   z-index: 700;
