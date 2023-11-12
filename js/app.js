@@ -12,7 +12,7 @@ function init() {
   });
 
   getTime();
-  TweenMax.to("#timeStamp", 3, {
+  TweenMax.to("#timeStamp", 30, {
     rotationX: 360,
   });
 
